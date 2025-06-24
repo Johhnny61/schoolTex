@@ -9,7 +9,7 @@ const advantages = [
 ];
 
 const Advantages = () => (
-  <section id="advantages" className="py-16 px-4 max-w-5xl mx-auto">
+  <section id="advantages" className="py-16 px-4 max-w-6xl mx-auto">
     <h2 className="text-2xl sm:text-3xl font-bold mb-8 text-center">Почему выбирают SchoolTex?</h2>
     <div className="grid gap-8 sm:grid-cols-3 md:grid-cols-5">
       {advantages.map((adv, idx) => (
