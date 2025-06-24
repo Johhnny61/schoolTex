@@ -26,7 +26,7 @@ const Navbar = () => {
 
   return (
     <nav className="fixed top-0 left-0 w-full z-50 bg-white/80 dark:bg-black/80 backdrop-blur border-b border-gray-200 dark:border-gray-800 shadow-sm">
-      <div className="max-w-5xl mx-auto flex justify-between items-center px-4 py-2 relative">
+      <div className="max-w-5xl mx-auto flex justify-between items-center px-4 py-5 relative">
         <div className="font-bold text-lg tracking-tight">SchoolTex</div>
 
         {/* Hamburger icon for mobile */}
